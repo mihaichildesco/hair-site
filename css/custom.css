@@ -1,5 +1,8 @@
 /*-----------HEADER----------
 ------------------------------*/
+body {
+  background-color: #EDEDED;
+}
 
 header {
   background-color: #4C8E96;
@@ -47,6 +50,7 @@ nav a:hover {
 .hero {
   border: 5px solid #8AB3B7;
   margin-top: 3rem;
+  background-color: #ffffff;
 }
 
 #image-container {
@@ -94,5 +98,42 @@ nav a:hover {
   padding-left: 1rem;
 }
 
-pas
+section {
+  border: 4px solid #8AB3B7;
+  background-color: #ffffff;
+}
+
+.bg-color {
+  background-color: #4C8E96;
+  color: #FDFEFE;
+  font-weight: bolder;
+}
+
+section h4 {
+  display: inline;
+  font-size: 2.5rem;
+  font-weight: bolder;
+  padding-left: 1rem;
+  position: absolute;
+}
+
+#header-section {
+  padding: 10% 5%;
+}
+
+section p {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  font-size: 1.3rem;
+}
+
+.bg-color p {
+  padding-top: 6rem;
+  padding-bottom: 4rem;
+}
+
+#header-section~p {
+  color: black;
+}
+
 /*--------------------*/
