@@ -1,0 +1,98 @@
+/*-----------HEADER----------
+------------------------------*/
+
+header {
+  background-color: #4C8E96;
+  padding-top: 8rem;
+  padding-bottom: 2rem;
+}
+
+ul {
+  list-style-type: none;
+  padding-top: 7rem;
+}
+
+li {
+  background-color: #1B212F;
+  padding: 5px 12px;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  display: inline;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-right: 0.2rem;
+}
+
+#logo {
+  background-color: #30364C;
+  font-size: 6rem;
+  color: white;
+  margin-right: 10rem;
+  text-align: center;
+  padding: 4rem 1rem;
+  font-weight: bold;
+}
+
+nav a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+nav a:hover {
+  background-color: transparent;
+}
+
+.hero {
+  border: 5px solid #8AB3B7;
+  margin-top: 3rem;
+}
+
+#image-container {
+  width: 353px;
+  height: 355px;
+}
+
+#image-hr {
+  object-fit: cover;
+  width: 353px;
+  height: 355px;
+}
+
+#hero-text {
+  font-size: 4rem;
+  padding-top: 9rem;
+  margin-left: 9rem;
+  font-weight: bold;
+}
+
+#hair-pictures {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+#hair-pictures img {
+  border: 3px solid #8AB3B7;
+  -webkit-box-shadow: 0 10px 6px -6px #777;
+  -moz-box-shadow: 0 10px 6px -6px #777;
+  box-shadow: 0 10px 6px -6px #777;
+}
+
+#description-pictures {
+  margin-top: 2rem;
+}
+
+#description-pictures h5 {
+  font-size: 1.9rem;
+  font-weight: 600;
+  padding-left: 1rem;
+}
+
+#description-pictures p {
+  font-size: 1.3rem;
+  padding-left: 1rem;
+}
+
+pas
+/*--------------------*/
