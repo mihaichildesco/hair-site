@@ -2,11 +2,11 @@
 ------------------------------*/
 
 body {
-  background-color: #EDEDED;
+  background-color: #be9d9d;
 }
 
 header {
-  background-color: #4C8E96;
+  background-color: #4c8e96;
   padding-top: 8rem;
   padding-bottom: 2rem;
 }
@@ -17,7 +17,7 @@ ul {
 }
 
 li {
-  background-color: #1B212F;
+  background-color: #1b212f;
   padding: 5px 12px;
   border-radius: 10px;
   color: white;
@@ -30,7 +30,7 @@ li {
 }
 
 #logo {
-  background-color: #30364C;
+  background-color: #30364c;
   font-size: 6rem;
   color: white;
   margin-right: 10rem;
@@ -49,7 +49,7 @@ nav a:hover {
 }
 
 .hero {
-  border: 5px solid #8AB3B7;
+  border: 5px solid #8ab3b7;
   margin-top: 3rem;
   background-color: #ffffff;
   border-radius: 3px;
@@ -79,7 +79,7 @@ nav a:hover {
 }
 
 #hair-pictures img {
-  border: 3px solid #8AB3B7;
+  border: 3px solid #8ab3b7;
   -webkit-box-shadow: 0 10px 6px -6px #777;
   -moz-box-shadow: 0 10px 6px -6px #777;
   box-shadow: 0 10px 6px -6px #777;
@@ -102,14 +102,14 @@ nav a:hover {
 }
 
 section {
-  border: 5px solid #8AB3B7;
+  border: 5px solid #8ab3b7;
   background-color: #ffffff;
   border-radius: 3px;
 }
 
 .bg-color {
-  background-color: #4C8E96;
-  color: #FDFEFE;
+  background-color: #4c8e96;
+  color: #fdfefe;
   font-weight: bolder;
 }
 
@@ -136,7 +136,7 @@ section p {
   padding-bottom: 4rem;
 }
 
-#header-section~p {
+#header-section ~ p {
   color: black;
 }
 
@@ -160,7 +160,7 @@ article {
 }
 
 footer {
-  background-color: #4C8E96;
+  background-color: #4c8e96;
   color: #ffffff;
   text-align: center;
   margin: 5rem 0;
@@ -174,7 +174,7 @@ footer span {
 }
 
 i {
-  color: #30364C;
+  color: #30364c;
 }
 
 a,
@@ -187,11 +187,9 @@ i {
   padding-left: 10rem;
 }
 
-
 /*======= MEDIA QUERIES =======*/
 
 @media (max-width: 400px) {
-
   li {
     display: block;
   }
@@ -237,9 +235,6 @@ i {
     padding: 0;
     padding-bottom: 0.8rem;
   }
-
 }
-
-
 
 /*--------------------*/
